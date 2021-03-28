@@ -1,6 +1,6 @@
-# 👋🏻Welcome
+# 👋🏻欢迎使用
 
-### 描述： 本网站将帮助你使用 ItemsAdder 来配置和创建你自定义的物品
+### 描述：这个百科可以帮助你了解Itemadder的配置和创建自定义的物品
 
 ## 👋🏻欢迎
 
@@ -12,10 +12,10 @@
 * [Discord](https://discord.gg/4dfnpUK)
 
 {% hint style="danger" %}
-## Please if you have ⛔️Adblock installed disable it because it blocks some of the website features!
+## 如果您安装了⛔️Adblock.你可以选择禁用他,它会阻止网站的一些功能!
 
-\(translation, dark mode and others\)
+\((比如翻译,夜晚模式等等功能)\)
 
-### This website has no ads, don't worry
+### 本网站没有任何广告，请放心食用
 {% endhint %}
 
